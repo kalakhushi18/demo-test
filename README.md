@@ -16,3 +16,5 @@ Also add Tags
 # Currently working on Adding Music to Photo
 
 # Completed and music is added
+
+# First working on reel feature

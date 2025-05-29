@@ -10,3 +10,5 @@ Changed the profile page
 Add Bio and Picture Upload feature
 
 Also add Tags 
+
+#Testing SHA with Amend
